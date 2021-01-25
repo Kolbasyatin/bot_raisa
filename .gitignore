@@ -8,3 +8,8 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+###> .docker
+.docker/.env
+.docker/php/php-ini-overrides.ini
+###< .docker
